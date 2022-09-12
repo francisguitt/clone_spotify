@@ -437,10 +437,6 @@ section {
     text-transform: uppercase;
 }
 
-.btn-card-plan button:hover{
-    transform: scale(1.1);
-    overflow-y: hidden;
-}
 
 .text-card-plan {
     padding: 10px;
