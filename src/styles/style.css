@@ -432,6 +432,7 @@ section {
     border-radius: 50px;
     font-size: 14px;
     font-weight: bold;
+    cursor: pointer;
     text-transform: uppercase;
 }
 
