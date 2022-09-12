@@ -433,11 +433,13 @@ section {
     font-size: 14px;
     font-weight: bold;
     cursor: pointer;
+    overflow-y: hidden;
     text-transform: uppercase;
 }
 
 .btn-card-plan button:hover{
     transform: scale(1.1);
+    overflow-y: hidden;
 }
 
 .text-card-plan {
