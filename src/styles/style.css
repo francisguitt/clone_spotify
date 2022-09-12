@@ -435,6 +435,10 @@ section {
     text-transform: uppercase;
 }
 
+.btn-card-plan button:hover{
+    transform: scale(1.1);
+}
+
 .text-card-plan {
     padding: 10px;
     font-size: 13px;
